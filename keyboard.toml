@@ -67,4 +67,4 @@ output = "Backspace"
 [behavior.tap_hold]
 enable_hrm = true
 hold_timeout = "150ms"
-# prior_time_idle = "0ms"
+prior_idle_time = "0ms"

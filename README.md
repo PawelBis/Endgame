@@ -1,6 +1,6 @@
 # Endgame
 
-This is my rmk configuration for the engame keyboard
+This is my rmk configuration for the Endgame keyboard
 
 # RMK
 
